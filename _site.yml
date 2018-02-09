@@ -1,0 +1,15 @@
+name: "stanfordr-website"
+output_dir: "."
+navbar:
+  title: "StanfordR"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Talks"
+      href: talks.html
+    - text: "Apply"
+      href: apply.html
+output:
+  html_document:
+    theme: spacelab
+    css: style.css

@@ -1,0 +1,14 @@
+---
+  title: "Talk Schedule"
+---
+Link to JJ Allaire's slides coming soon!  JJ is the Founder and CEO of RStudio and the author of the RStudio IDE.
+![](JJ_Allaire_Flyer.png){ width=65% }
+  
+Link to Lee Wilkinson's slides coming soon!  Lee is perhaps most well-known as the father of the Grammar of Graphics.
+![](Leland_Wilkinson_Flyer.png){ width=65% }
+
+[Link to Joe Rickert's slides](https://github.com/joseph-rickert/Stanford_Talk_12-5-17).  Joe is the R Community Ambassador.
+![](Joseph_Rickert_Flyer.png){ width=65% }
+
+[Link to Norm Matloff's slides](http://heather.cs.ucdavis.edu/StanfordR.pdf).  Norm is the well-known author of the book "The Art of R Programming".
+![](Norm_Matloff_Flyer.png){ width=65% }
