@@ -4,7 +4,7 @@
 Link to Hadley Wickham's slides coming soon!  Hadley is Chief Scientist at RStudio, a member of the R Foundation, and Adjunct Professor at Stanford University and the University of Auckland.
 ![](Hadley_Wickham_Flyer.png){ width=65% }
 
-Link to JJ Allaire's slides coming soon!  JJ is the Founder and CEO of RStudio and the author of the RStudio IDE.
+[Link to JJ Allaire's slides](https://rstd.io/ml-with-tensorflow-and-r/).  JJ is the Founder and CEO of RStudio and the author of the RStudio IDE.
 ![](JJ_Allaire_Flyer.png){ width=65% }
   
 Link to Lee Wilkinson's slides coming soon!  Lee is perhaps most well-known as the father of the Grammar of Graphics.
