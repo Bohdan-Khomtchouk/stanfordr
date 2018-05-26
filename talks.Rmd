@@ -2,6 +2,9 @@
   title: "Talk Schedule"
 ---
 Link to Hadley Wickham's slides coming soon!  Hadley is Chief Scientist at RStudio, a member of the R Foundation, and Adjunct Professor at Stanford University and the University of Auckland.
+![](Hadley_Wickham_CS_Gates_Flyer.png){ width=65% }
+
+Link to Hadley Wickham's slides coming soon!  Hadley is Chief Scientist at RStudio, a member of the R Foundation, and Adjunct Professor at Stanford University and the University of Auckland.
 ![](Hadley_Wickham_Flyer.png){ width=65% }
 
 [Link to JJ Allaire's slides](https://rstd.io/ml-with-tensorflow-and-r/).  JJ is the Founder and CEO of RStudio and the author of the RStudio IDE.
